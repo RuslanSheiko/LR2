@@ -6,7 +6,10 @@
 
 + Створили новий проект під назвою "London Project" 
 
-![](1.jpg)
+<p align="center">
+  <img src="1.jpg">
+</p>
+
 + Активували Compute Engine API та почали створювати віртуальну машину 
 
 ![](2.jpg)
@@ -36,7 +39,9 @@ gcloud compute instances create red-instance --image-family=debian-10 --image-pr
 
 + Тож, таким чином ми створили віртуальну машину за допомогою Cloud Shell, перевірити це можна на сторінці оновивши її
 
-![](6.jpg)
+<p align="center">
+  <img src="6.jpg">
+</p>
 
 + На малюнку бачимо дві працюючі віртуальні машини. Перша була створена звичайним методом, а інша через Cloud Shell
 
