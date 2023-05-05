@@ -45,4 +45,8 @@ gcloud compute instances create red-instance --image-family=debian-10 --image-pr
 
 + На малюнку бачимо дві працюючі віртуальні машини. Перша була створена звичайним методом, а інша через Cloud Shell
 
++ Висновок
+
+У лабораторній роботі було виконано створення віртуальної машини використовуючи звичний спосіб, просто роблячи його на сайті Google Cloud. Та було створено машину за допомогою Cloud Shell. У нас це вдалося, про що свідчить останній скріншот з лабораторної.
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=THE+END)
